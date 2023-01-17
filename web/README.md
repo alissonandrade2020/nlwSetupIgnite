@@ -7,15 +7,6 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Vite](https://vitejs.dev)
-- [ReactJS](https://reactjs.org)
-- [ReactNative](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Node](https://nodejs.org/)
-- [Prisma](https://www.prisma.io/)
-- [Tailwindcss](https://tailwindcss.com/)
-- [Fastify](https://www.fastify.io/)
-
 -------------------------------------------------------------------
 
 🔭 Frontend
