@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/logo.png" alt="Ignite Timer" title="Ignite Timer" />
+    <img alt="nlwcopa" title="#nlwcopa" src="Web.png" width="700px" />
 </h1>
-
-<span align="center">
-  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/capa.png" alt="Capa Timer" title="Capa Ignite Timer" />
-</span>
 
 ## ✨ Tecnologias
 
