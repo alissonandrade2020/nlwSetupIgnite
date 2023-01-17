@@ -3,9 +3,9 @@
 </h1>
 
 <h1 align="center">
-    <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="200px" title="nlwcopa" />
-      <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(1).png" width="200px" />
-        <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(2).png" width="200px" />
+    <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="400px" title="nlwcopa" />
+      <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(1).png" width="400px" />
+        <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(2).png" width="400px" />
 </h1>
 
 ## ✨ Tecnologias
