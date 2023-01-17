@@ -49,35 +49,6 @@ $ npm run dev
 
 ```
 
-📱 Mobile
-
-- [Expo](https://expo.io/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-
-```bash 
-
-# Clone este repositório
-
-$ git clone <https://github.com/alissonandrade2020/nlwSetupIgnite/mobile>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlwSetupIgnite
-
-# Vá para a pasta mobile
-$ cd mobile
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npx expo start
-
-# O servidor inciará na porta:3000 - acesse <exp://10.50.3.50:19000> 
-
-```
-
 ## 💻 Projeto
 
 O Habits é um projeto que visa registar os habitos durante a semana, por exemplos: Jogar bola segunda, codar na terça e etc.
