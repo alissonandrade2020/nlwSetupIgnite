@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="400px" title="nlwcopa" />
+    <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="700px" title="nlwcopa" />
 </h1>
 
 ## ✨ Tecnologias
