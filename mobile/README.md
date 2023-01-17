@@ -9,21 +9,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+📱 Mobile
+
+- [Expo](https://expo.io/)
 - [ReactNative](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 
-```
-
-📱 Mobile
-
-- [Expo](https://expo.io/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-
-```bash 
+```bash  
 
 # Clone este repositório
 
