@@ -4,8 +4,6 @@
 
 <h1 align="center">
     <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="400px" title="nlwcopa" />
-      <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(1).png" width="400px" />
-        <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(2).png" width="400px" />
 </h1>
 
 ## ✨ Tecnologias
@@ -38,8 +36,3 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-
-
-
-
