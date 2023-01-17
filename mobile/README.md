@@ -11,7 +11,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactNative](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Prisma](https://www.prisma.io/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 
