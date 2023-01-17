@@ -21,8 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 
-```
-
 ## 💻 Projeto
 
 O Habits é um projeto que visa registar os habitos durante a semana, por exemplos: Jogar bola segunda, codar na terça e etc.

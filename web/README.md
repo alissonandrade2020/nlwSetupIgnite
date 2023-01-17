@@ -40,23 +40,6 @@ $ npm run dev
 
 ```
 
-## 💻 Projeto
-
-O Habits é um projeto que visa registar os habitos durante a semana, por exemplos: Jogar bola segunda, codar na terça e etc.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto no formato através [desse link](https://app.rocketseat.com.br/event/nlw-setup/ignite/aula-1
-). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 
 
