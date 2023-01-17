@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="nlwcopa" title="#nlwcopa" src="Web.png" width="700px" />
+    <img alt="nlwcopa" title="#nlwcopa" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/capa.jpg" width="700px" />
 </h1>
 
 <h1 align="center">
-    <img alt="nlwSetup" src="capa.svg" width="200px" title="818557631343-7550ck1t51dr2tdavh7m9tq8i2icgakr.apps.googleusercontent.com" />
-      <img alt="nlwSetup" title="#nlwSetup" src="tela.svg" width="200px" />
-        <img alt="nlwSetup" title="#nlwSetup" src="tela2.svg" width="200px" />
+    <img alt="nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/projeto.png" width="200px" title="nlwcopa" />
+      <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(1).png" width="200px" />
+        <img alt="nlwSetup" title="#nlwSetup" src="https://github.com/alissonandrade2020/nlwSetupIgnite/blob/master/assets/web%20(2).png" width="200px" />
 </h1>
 
 ## ✨ Tecnologias
