@@ -2,6 +2,12 @@
     <img alt="nlwcopa" title="#nlwcopa" src="Web.png" width="700px" />
 </h1>
 
+<h1 align="center">
+    <img alt="nlwSetup" src="capa.svg" width="200px" title="818557631343-7550ck1t51dr2tdavh7m9tq8i2icgakr.apps.googleusercontent.com" />
+      <img alt="nlwSetup" title="#nlwSetup" src="tela.svg" width="200px" />
+        <img alt="nlwSetup" title="#nlwSetup" src="tela2.svg" width="200px" />
+</h1>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -15,17 +21,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 
+## 💻 Projeto
 
-## 🖼️ Layout
+O Habits é um projeto que visa registar os habitos durante a semana, por exemplos: Jogar bola segunda, codar na terça e etc.
 
-### Página Home
+## 🔖 Layout
 
-<div align="center">
-  <img src=".github/page_home.png" />
-</div>
+Você pode visualizar o layout do projeto no formato através [desse link](https://app.rocketseat.com.br/event/nlw-setup/ignite/aula-1
+). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-### Página History
-<div align="center">
-   <img src=".github/page_history.png" />
-</div>
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+
+
+
 

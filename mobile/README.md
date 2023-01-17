@@ -4,7 +4,6 @@
         <img alt="nlwSetup" title="#nlwSetup" src="tela2.svg" width="200px" />
 </h1>
 
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -18,17 +17,33 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 
+```
 
-## 🖼️ Layout
+📱 Mobile
 
-### Página Home
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-<div align="center">
-  <img src=".github/page_home.png" />
-</div>
 
-### Página History
-<div align="center">
-   <img src=".github/page_history.png" />
-</div>
+```bash 
 
+# Clone este repositório
+
+$ git clone <https://github.com/alissonandrade2020/nlwSetupIgnite/mobile>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlwSetupIgnite
+
+# Vá para a pasta mobile
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npx expo start
+
+# O servidor inciará na porta:3000 - acesse <exp://10.50.3.50:19000> 
+
+```

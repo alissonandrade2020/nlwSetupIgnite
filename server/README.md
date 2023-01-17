@@ -1,35 +1,35 @@
 <h1 align="center">
-  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/logo.png" alt="Ignite Timer" title="Ignite Timer" />
+    <img alt="nlwSetup" src="capa.svg" width="200px" title="818557631343-7550ck1t51dr2tdavh7m9tq8i2icgakr.apps.googleusercontent.com" />
+      <img alt="nlwSetup" title="#nlwSetup" src="tela.svg" width="200px" />
+        <img alt="nlwSetup" title="#nlwSetup" src="tela2.svg" width="200px" />
 </h1>
 
-<span align="center">
-  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/capa.png" alt="Capa Timer" title="Capa Ignite Timer" />
-</span>
+-------------------------------------------------------------------
 
-## ✨ Tecnologias
+🎲 Rodando o Back End (servidor)
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Vite](https://vitejs.dev)
-- [ReactJS](https://reactjs.org)
-- [ReactNative](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Node](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
-- [Tailwindcss](https://tailwindcss.com/)
-- [Fastify](https://www.fastify.io/)
 
+```bash 
 
-## 🖼️ Layout
+# Clone este repositório
 
-### Página Home
+$ git clone https://github.com/alissonandrade2020/nlwSetupIgnite/server
 
-<div align="center">
-  <img src=".github/page_home.png" />
-</div>
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlwSetupIgnite
 
-### Página History
-<div align="center">
-   <img src=".github/page_history.png" />
-</div>
+# Vá para a pasta server
+$ cd server
 
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+
+```
