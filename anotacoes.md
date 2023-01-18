@@ -93,7 +93,13 @@ module.exports = {
 
 - [X] npm i --dev react-native-svg-transformer
 
+- [X] npm i dayjs
+ 
+- > https://oblador.github.io/react-native-vector-icons/
+
 - [X] npm install -g eas-cli  -> subir para expo
 
 * npx expo install expo-system-ui
+
+
 
