@@ -3,12 +3,17 @@
     "name": "Habits: Alisson de Andrade Araújo",
     "slug": "HabitsAlissonAndrade",
     "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "privacy": "public",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#09090A"
     },
     "updates": {
@@ -24,10 +29,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#09090A"
-      }
+      },
+      "package": "alisson.nlwsetup"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2333d063-fb88-4c1a-8a71-12dc7bc72c2b"
+      }
     }
   }
 }

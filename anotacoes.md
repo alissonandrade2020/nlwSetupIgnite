@@ -64,3 +64,36 @@ ou
 
 - [X] npx expo install expo-font @expo-google-fonts/inter
 
+* NativeWind
+
+- > https://www.nativewind.dev/quick-starts/expo
+
+- [X] npm i nativewind
+
+- [X] npm i --dev tailwindcss
+
+* Criar o Setup do Tailwind CSS
+
+- [X] npx tailwindcss init
+
+```bash
+
+// tailwind.config.js
+
+module.exports = {
+- content: [],
++ content: ["./App.{js,jsx,ts,tsx}", "./<custom directory>/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+```
+
+- [X] npm i --dev react-native-svg-transformer
+
+- [X] npm install -g eas-cli  -> subir para expo
+
+* npx expo install expo-system-ui
+

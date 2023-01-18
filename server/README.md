@@ -9,6 +9,7 @@
 - [Node](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
+- [Zod](https://www.npmjs.com/package/zod)
 
 ```bash 
 

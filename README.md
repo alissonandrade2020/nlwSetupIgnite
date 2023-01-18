@@ -18,6 +18,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
+- [Dayjs](https://day.js.org/)
+- [Expo-font](https://docs.expo.dev/versions/latest/sdk/font)
+- [NativeWind](https://www.nativewind.dev/quick-starts/expo)
+- [Phosphor-React](https://www.npmjs.com/package/phosphor-react)
+- [Zod](https://www.npmjs.com/package/zod)
+- [SVG](https://docs.expo.dev/versions/latest/sdk/svg/)
+- [SVG-TRANSFORM](https://github.com/kristerkari/react-native-svg-transformer)
 
 ## 💻 Projeto
 
