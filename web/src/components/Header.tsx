@@ -4,7 +4,7 @@ import LogoImage from '../assets/logo.svg'
 
 export function Header() {
   return (
-    <div className="w-full max-w-3xl mx-auto flex items-center justify-between">
+    <div className="w-full max-w-3xl mx-auto flex items-center justify-between text-white">
       <img src={LogoImage} alt="" />
 
       <button
