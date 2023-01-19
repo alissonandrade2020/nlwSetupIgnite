@@ -20,6 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Radix](https://www.radix-ui.com/)
 - [Radix-REACT-POPOVER](https://www.radix-ui.com/docs/primitives/components/popover)
 - [Radix-Progress](https://www.radix-ui.com/docs/primitives/components/progress)
+- [Radix-checkBox](https://www.radix-ui.com/docs/primitives/components/checkbox)
+
 
 ```bash 
 

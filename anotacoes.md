@@ -66,6 +66,8 @@ ou
 
 - [X] npm i clsx
 
+-[X] npm install @radix-ui/react-checkbox
+
 # MOBILE
 
 - [X] npx create-expo-app nlwsetup --template 
