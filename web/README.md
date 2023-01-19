@@ -17,7 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Tailwindcss](https://tailwindcss.com/)
 - [Fastify](https://www.fastify.io/)
 - [Phosphor-React](https://www.npmjs.com/package/phosphor-react)
-
+- [Radix](https://www.radix-ui.com/)
+- [Radix-REACT-POPOVER](https://www.radix-ui.com/docs/primitives/components/popover)
+- [Radix-Progress](https://www.radix-ui.com/docs/primitives/components/progress)
 
 ```bash 
 
