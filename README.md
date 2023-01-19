@@ -25,6 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Zod](https://www.npmjs.com/package/zod)
 - [SVG](https://docs.expo.dev/versions/latest/sdk/svg/)
 - [SVG-TRANSFORM](https://github.com/kristerkari/react-native-svg-transformer)
+- [Radix](https://www.radix-ui.com/)
+- [Radix-REACT-POPOVER](https://www.radix-ui.com/docs/primitives/components/popover)
+- [Radix-Progress](https://www.radix-ui.com/docs/primitives/components/progress)
+
 
 ## 💻 Projeto
 

@@ -48,9 +48,6 @@ ou
 
 - [X] npm i dayjs
 
-
-
-
 # WEB
 
 - [X] yarn create @vitejs/app my-project
@@ -58,6 +55,16 @@ ou
 - rfc
 
 - [X] npm i -D tailwindcss postcss autoprefixer
+
+* https://www.radix-ui.com/docs/primitives/components/dialog
+
+- [X] npm install @radix-ui/react-dialog 
+
+- [X] npm install @radix-ui/react-popover
+
+- [x] npm install @radix-ui/react-progress
+
+- [X] npm i clsx
 
 # MOBILE
 
