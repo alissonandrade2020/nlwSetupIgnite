@@ -111,5 +111,9 @@ module.exports = {
 
 * npx expo install expo-system-ui
 
+- [X] npm install @react-navigation/native
 
+- [X] npx expo install react-native-screens react-native-safe-area-context
+
+- [X] npm install @react-navigation/native-stack
 

@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Radix](https://www.radix-ui.com/)
 - [Radix-REACT-POPOVER](https://www.radix-ui.com/docs/primitives/components/popover)
 - [Radix-Progress](https://www.radix-ui.com/docs/primitives/components/progress)
+- [REACT-NAVIGATION](https://reactnavigation.org/)
+- [React-Native-Screens](https://reactnavigation.org/docs/getting-started/)
 
 
 ## 💻 Projeto
