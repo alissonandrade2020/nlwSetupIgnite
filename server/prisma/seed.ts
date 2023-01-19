@@ -2,17 +2,17 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
-const firstHabitId = "0730ffac-d039-4194-9571-01aa2aa0efbd";
-const firstHabitCreationDate = new Date("2022-12-31T03:00:00.000");
+const firstHabitId = '0730ffac-d039-4194-9571-01aa2aa0efbd'
+const firstHabitCreationDate = new Date('2022-12-31T00:00:00.000')
 
-const secondHabitId = "00880d75-a933-4fef-94ab-e05744435297";
-const secondHabitCreationDate = new Date("2023-01-03T03:00:00.000");
+const secondHabitId = '00880d75-a933-4fef-94ab-e05744435297'
+const secondHabitCreationDate = new Date('2023-01-03T00:00:00.000')
 
-const thirdHabitId = "fa1a1bcf-3d87-4626-8c0d-d7fd1255ac00";
-const thirdHabitCreationDate = new Date("2023-01-08T03:00:00.000");
+const thirdHabitId = 'fa1a1bcf-3d87-4626-8c0d-d7fd1255ac00'
+const thirdHabitCreationDate = new Date('2023-01-08T00:00:00.000')
 
-const cordHabitId = "fa1a1bcf-3d87-4626-8c0d-d7fd1255ac22";
-const corHabitCreationDate = new Date("2023-01-09T03:00:00.000");
+const cordHabitId = "1567sasf-3d87-4626-8c0d-d7fd1255ac22";
+const corHabitCreationDate = new Date("2023-01-09T00:00:00.000");
 
 async function run() {
   await prisma.dayHabit.deleteMany();
@@ -82,7 +82,7 @@ async function run() {
     prisma.day.create({
       data: {
         /** Monday */
-        date: new Date("2023-01-02T03:00:00.000z"),
+        date: new Date("2023-01-02T00:00:00.000z"),
         dayHabits: {
           create: {
             habit_id: firstHabitId,
@@ -97,7 +97,7 @@ async function run() {
     prisma.day.create({
       data: {
         /** Friday */
-        date: new Date("2023-01-06T03:00:00.000z"),
+        date: new Date("2023-01-06T00:00:00.000z"),
         dayHabits: {
           create: {
             habit_id: firstHabitId,
@@ -112,9 +112,9 @@ async function run() {
     prisma.day.create({
       data: {
         /** Wednesday */
-        date: new Date("2023-01-04T03:00:00.000z"),
+        date: new Date("2023-01-04T00:00:00.000z"),
         dayHabits: {
-          create: [{ habit_id: firstHabitId }, { habit_id: secondHabitId }],
+          create: [{ habit_id: firstHabitId }, { habit_id: secondHabitId }, { habit_id: thirdHabitId }],
         },
       },
     }),
