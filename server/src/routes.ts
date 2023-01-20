@@ -160,7 +160,7 @@ export async function appRoutes(app: FastifyInstance) {
         D.id, 
         D.date,
         (
-          SELECT 
+          SELECT
             count(*) as float
           FROM day_habits DH
           WHERE DH.day_id = D.id
@@ -172,10 +172,11 @@ export async function appRoutes(app: FastifyInstance) {
           JOIN habits H
             ON H.id = HDW.habit_id
           WHERE
+          HDW.week_day > 1
+          AND
 H.created_at <= D.date
         ) as amount
-      FROM days D
-        
+      FROM days D        
       /* SELECT 
         D.id, 
         D.date,
