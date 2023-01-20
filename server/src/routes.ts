@@ -180,3 +180,5 @@ export async function appRoutes(app: FastifyInstance) {
     return summary;
   });
 }
+
+// https://nlwsetupignite-production.up.railway.app/day?date=2023-01-20T14%3A00%3A00.000z
