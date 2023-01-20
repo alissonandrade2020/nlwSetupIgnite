@@ -155,7 +155,7 @@ export async function appRoutes(app: FastifyInstance) {
   });
 
   app.get("/summary", async () => {
-    const summary = await prisma.$queryRaw`
+    const summary = await prisma.$queryRawUnsafe (`
       SELECT 
         D.id,
         D.date,
@@ -176,7 +176,7 @@ export async function appRoutes(app: FastifyInstance) {
           AND H.created_at <= D.date
         ) as amount
         FROM days D
-      `
+      `)
     return summary;
   });
 }
