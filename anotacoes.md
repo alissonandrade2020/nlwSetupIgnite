@@ -48,6 +48,8 @@ ou
 
 - [X] npm i dayjs
 
+* DATABASE_URL="file:./dev.db"
+
 # WEB
 
 - [X] yarn create @vitejs/app my-project
