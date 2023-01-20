@@ -68,7 +68,9 @@ ou
 
 - [X] npm i clsx
 
--[X] npm install @radix-ui/react-checkbox
+- [X] npm install @radix-ui/react-checkbox
+
+- [X] npm i axios
 
 # MOBILE
 
