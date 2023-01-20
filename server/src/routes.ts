@@ -113,7 +113,7 @@ export async function appRoutes(app: FastifyInstance) {
 
     const today = dayjs().startOf("day").toDate();
 
-    let day = await prisma.day.findFirst({
+    let day = await prisma.day.findUnique({
       where: {
         date: today,
       },
