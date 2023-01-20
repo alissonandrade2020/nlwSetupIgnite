@@ -2,9 +2,9 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "soma.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "tsx --watch src/server.ts",
+    "dev": "tsx watch src/server.ts",
     "start": "node src/server.js",
     "build": "npx tsc"
   },
