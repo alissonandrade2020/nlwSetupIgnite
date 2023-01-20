@@ -31,7 +31,7 @@ export function SummaryTable() {
   const [summary, setSummary] = useState<Summary>([])
 
   useEffect(() =>{
-    api.get('summary').then(response => {
+    api.get('/summary').then(response => {
       setSummary(response.data)
     })
   },[])
