@@ -131,3 +131,6 @@ https://docs.expo.dev/versions/latest/sdk/reanimated/
 
 - [X] npx expo install react-native-reanimated
 
+
+DATABASE_URL="postgresql://postgres:9Tn60XcGTvDXamqpujEC@containers-us-west-136.railway.app:6282/railway"
+

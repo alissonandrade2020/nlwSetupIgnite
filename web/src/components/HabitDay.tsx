@@ -39,7 +39,7 @@ export function HabitDay({ defaultCompleted = 0, amount = 0, date }: HabitDayPro
       <Popover.Portal>
         <Popover.Content className="min-w-[320px] p-6 rounded-2xl bg-zinc-900 flex flex-col">
           <span className="font-semibold text-zinc-400">{dayOfWeek}</span>
-          <span className="mt-1 font-extrabold leading-tight text-3xl">{dayAndMonth}</span>
+          <span className="mt-1 font-extrabold leading-tight text-3xl text-white">{dayAndMonth}</span>
 
           <ProgressBar progress={comlpetedPercentage} />
 
