@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Radix-Progress](https://www.radix-ui.com/docs/primitives/components/progress)
 - [REACT-NAVIGATION](https://reactnavigation.org/)
 - [React-Native-Screens](https://reactnavigation.org/docs/getting-started/)
-
+- [React-Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
 ## 💻 Projeto
 

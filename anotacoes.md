@@ -123,3 +123,11 @@ module.exports = {
 
 - [X] npm install @react-navigation/native-stack
 
+* https://docs.swmansion.com/react-native-reanimated/
+
+vai usar 
+
+https://docs.expo.dev/versions/latest/sdk/reanimated/
+
+- [X] npx expo install react-native-reanimated
+

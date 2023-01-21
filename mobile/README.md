@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SVG-TRANSFORM](https://github.com/kristerkari/react-native-svg-transformer)
 - [React-Navigation](https://reactnavigation.org/)
 - [React-Native-Screens](https://reactnavigation.org/docs/getting-started/)
+- [React-Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
 ```bash  
 

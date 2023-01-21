@@ -3,16 +3,13 @@ import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 
 const firstHabitId = '0730ffac-d039-4194-9571-01aa2aa0efbd'
-const firstHabitCreationDate = new Date('2023-01-02T00:00:00.000')
+const firstHabitCreationDate = new Date('2023-01-16T00:00:00.000')
 
 const secondHabitId = '00880d75-a933-4fef-94ab-e05744435297'
-const secondHabitCreationDate = new Date('2023-01-03T00:00:00.000')
+const secondHabitCreationDate = new Date('2023-01-17T00:00:00.000')
 
 const thirdHabitId = 'fa1a1bcf-3d87-4626-8c0d-d7fd1255ac00'
-const thirdHabitCreationDate = new Date('2023-01-08T00:00:00.000')
-
-const cordHabitId = "1567sasf-3d87-4626-8c0d-d7fd1255ac22";
-const corHabitCreationDate = new Date("2023-01-09T00:00:00.000");
+const thirdHabitCreationDate = new Date('2023-01-18T00:00:00.000')
 
 async function run() {
   await prisma.dayHabit.deleteMany();
@@ -59,17 +56,6 @@ async function run() {
             { week_day: 4 },
             { week_day: 5 },
           ],
-        },
-      },
-    }),
-
-    prisma.habit.create({
-      data: {
-        id: cordHabitId,
-        title: "Codar 4h",
-        created_at: corHabitCreationDate,
-        weekDays: {
-          create: [{ week_day: 1 }, { week_day: 3 }, { week_day: 5 }],
         },
       },
     }),
