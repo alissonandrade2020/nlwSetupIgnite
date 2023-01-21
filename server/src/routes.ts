@@ -149,32 +149,32 @@ export async function appRoutes(app: FastifyInstance) {
     }
   });
 
-  app.get('/summary', async () => {
+  app.get("/summary", async () => {
     const summary = await prisma.$queryRaw`
-      SELECT 
-        d.id,
-        d.date,
+         SELECT 
+        D.id, 
+        D.date,
         (
           SELECT 
             cast(count(*) as float)
-          FROM day_habits dh
-          WHERE dh.day_id = d.id
+          FROM day_habits DH
+          WHERE DH.day_id = D.id
         ) as completed,
         (
           SELECT
             cast(count(*) as float)
-          FROM habit_week_days hwd
-          JOIN habits h
-            ON h.id = hwd.habit_id
+          FROM habit_week_days HDW
+          JOIN habits H
+            ON H.id = HDW.habit_id
           WHERE
-            hwd.week_day = extract(dow FROM d.date)
-            AND h.created_at <= d.date
+            HDW.week_day = extract(dow FROM D.date)
+            AND H.created_at <= D.date
         ) as amount
-      FROM days d
-    `;
-
+      FROM days D 
+      `;
     return summary;
   });
 }
 
+// HDW.week_day = cast(strftime('%w', D.date/1000.0, 'unixepoch') as int)
 // https://nlwsetupignite-production.up.railway.app/day?date=2023-01-20T14%3A00%3A00.000z
