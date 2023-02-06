@@ -92,6 +92,8 @@ ou
 
 - [X] npx tailwindcss init
 
+- [X] npx expo install expo-notifications
+
 ```bash
 
 // tailwind.config.js

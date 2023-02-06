@@ -24,6 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React-Navigation](https://reactnavigation.org/)
 - [React-Native-Screens](https://reactnavigation.org/docs/getting-started/)
 - [React-Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+- [Expo-Notification](https://docs.expo.dev/versions/latest/sdk/notifications/)
 
 ```bash  
 
